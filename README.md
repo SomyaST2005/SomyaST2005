@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · Cybersecurity Enthusiast · Hackathon Builder
 
-B.Tech CSE @ VIT Bhopal (2027) · CGPA 8.49
+B.Tech CSE @ VIT Bhopal (2027) · CGPA 8.41
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-somyashekhartiwari.vercel.app-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://somyashekhartiwari.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-somya--shekhar--tiwari-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/somya-shekhar-tiwari)
